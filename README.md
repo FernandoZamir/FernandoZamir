@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Data Science**
 
-- 💬 Ask me about **Vue, C#, Go or other of my skills**
+- 💬 Ask me about **Vue, React.js, C#, Go, Python or other of my skills**
 
 - 📫 How to reach me **fernando.oviedo4@gmail.com**
 
